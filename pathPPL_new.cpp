@@ -15,9 +15,9 @@
 
 #define INF 99
 
-#define originFile "test_pro.txt"
-#define outputFile "test_pll.txt"
-#define inputFile  "test_pll.txt"
+#define originFile "douban_pro.txt"
+#define outputFile "douban_pll.txt"
+#define inputFile  "douban_pll.txt"
 
 using namespace std;
 
@@ -344,6 +344,6 @@ int main()
     pathPLL test = pathPLL();
     //test.labelConstruction();
     test.input();
-    //test.QueryTest(10000);
+    test.QueryTest(10000);
     return 0;
 }
