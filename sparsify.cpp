@@ -1,3 +1,5 @@
+// sparsify a graph by removing landmarks
+
 #include<iostream>
 #include<stdint.h>
 #include<vector>
