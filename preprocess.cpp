@@ -1,3 +1,5 @@
+// from set of edges to adjacency list
+
 #include<iostream>
 #include<vector>
 #include<map>
